@@ -1,3 +1,8 @@
+# Note de l'auteur
+
+PurpleSand est une librairie *fiable* oui mais c'est un projet qui m'a fait comprendre la nécessité de la retro-compatibilité et de l'optimisation.
+Je ne peux donc que vous déconseiller de l'utiliser en production. 😁
+
 # PurpleSand
 
 ## Liens utiles
